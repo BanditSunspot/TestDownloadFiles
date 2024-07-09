@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "username": "test",
+            "password": "123",
+            "email": "test@testy.com"
+        },
+        {
+            "username": "Test_",
+            "password": "password09_",
+            "email": "test@mail.com"
+        },
+        {
+            "username": "user",
+            "password": "userpass",
+            "email": "user@test.fr"
+        },
+        {
+            "username": "ares",
+            "password": "arespass",
+            "email": "ares@test.eu"
+        },
+        {
+            "username": "ares",
+            "password": "arespass",
+            "email": "ares@test.eu"
+        },
+        {
+            "username": "ares",
+            "password": "arespass",
+            "email": "ares@test.eu"
+        },
+        {
+            "username": "ares",
+            "password": "arespass",
+            "email": "ares@test.eu"
+        },
+        {
+            "username": "test",
+            "password": "testpass",
+            "email": "test@test.fr"
+        },
+        {
+            "username": "rest",
+            "password": "restrrte",
+            "email": "rrer@test.fr"
+        }
+    ]
+}

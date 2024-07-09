@@ -1,0 +1,38 @@
+<TextTitleLayout>
+
+    BoxLayout:
+        pos_hint: {'center_x': -0.78, 'center_y': 1}
+        orientation: "horizontal"
+        size_x: 0.5
+        size_y: 0.5
+        Label:
+            text: "AfterLife Online"
+
+<ImageTitleLayout>
+
+    BoxLayout:
+        pos_hint: {'center_x': 0.05, 'center_y': 0.8}
+        orientation: "horizontal"
+        size_x: 0.5
+        size_y: 0.5
+        Label:
+            text: ""
+            Image:
+                center: self.parent.center
+                source: "./Images/Icon.PNG"
+                size_hint_y: None
+                height: dp(50)
+
+<ImageRightColLayout>
+
+    BoxLayout:
+        pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+        orientation: "horizontal"
+        Label:
+            text: ""
+            Image:
+                center: self.parent.center
+                source: "./Images/Banner.png"
+                allow_stretch: True
+                height: dp(125)
+                width: dp(425)
